@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+header{
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+#q_blk{
+  margin-left: 10px;
+}
+#sl_no{
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+  padding-top: 10px;
+}
+#question{
+  font-size: 16px;
+  font-weight: bold;
+  color: blue;
+}
